@@ -3,18 +3,18 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: assets/imgs/image.png
+hero_image: assets/imgs/IMG_5880 480x480.jpg
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en 1ere année
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 01/07/25
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[antoine.cluzel[at]gmail.com](mailto:antoine.cluzel@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
