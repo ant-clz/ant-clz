@@ -8,15 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Antoine CLUZEL
 Elève ingénieur en 1ere année
 
 
 Disponible 1 mois à partir du 01/07/25
 
-[antoine.cluzel[at]gmail.com](mailto:antoine.cluzel@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[antoine.cluzel@gmail.com](mailto:antoine.cluzel@gmail.com)
 
 Permis B, voiture
 
