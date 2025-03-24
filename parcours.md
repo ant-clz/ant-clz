@@ -8,60 +8,58 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève en première année d'ingénieur
+* Cours : Electronique - Programmation - Physique
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2023 - 2024`
+Bac Spécialité Mathématiques - Numérique et Sciences Informatiques, mention Bien, Neufchâtel-en-Bray
+
+
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2020` **Entreprise DEFELEC, électricité générale, 4 salariés, Saint-Saëns**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage d'observation_
+_1 semaine_
+* Observation du métier d’électricien (petits chantiers, devis clients).
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2024` **Réalisation d’un projet scolaire**
 
-`20XX` **Association, description de l’asso., taille**
+_Mini-Babyfoot - Equipe de 3 étudiants_
+* Conception et impression 3D
+* Gravage Laser
+* Assemblage
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+`2022 - 2025` **Créations électroniques**
+
+* Soudure sur carte électronique
+* Création de cartes électroniques sur logiciel (KiCad)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais
+* Allemand 
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Autodesk Fusion - KiCad
+* Suite Office
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis B
 
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+* Sport : Cyclisme, voile
+* Électronique / Domotique
+* Impression 3D
+* Mécanique
+* Bricolage
